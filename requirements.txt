@@ -3,6 +3,4 @@ pandas
 openpyxl
 xlsxwriter
 joblib
-plotly
-numpy
 sklearn
